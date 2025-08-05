@@ -2,41 +2,44 @@
 📈 LSTM Stock Market Analysis
 A deep learning project that predicts stock prices using Long Short-Term Memory (LSTM) neural networks. This project leverages historical stock market data to train and evaluate an LSTM model for time series forecasting.
 
-🔍 Overview
+### 🔍 Overview
 Stock price prediction is a challenging task due to the volatile and non-linear nature of financial markets. This project applies LSTM, a type of Recurrent Neural Network (RNN), which is well-suited for capturing temporal dependencies in sequential data.
 
-Key steps include:
+### Key steps include:
 
-Collecting historical stock price data (e.g., from Yahoo Finance)
+* Collecting historical stock price data (e.g., from Yahoo Finance)
 
-Preprocessing and normalizing the data
+* Preprocessing and normalizing the data
 
-Creating LSTM-compatible data sequences
+* Creating LSTM-compatible data sequences
 
-Training an LSTM model using TensorFlow/Keras
+* Training an LSTM model using TensorFlow/Keras
 
-Evaluating predictions visually and statistically
+* Evaluating predictions visually and statistically
 
-🧠 Technologies Used
-Python
+### 🧠 Technologies Used
 
-TensorFlow / Keras
 
-NumPy
+1. Python
 
-Pandas
+2. TensorFlow / Keras
 
-Matplotlib
+3. NumPy
 
-scikit-learn
+4. Pandas
 
-Yahoo Finance API (yfinance)
+5. Matplotlib
 
- Future Improvements
-Use more complex LSTM architectures (e.g., stacked or bidirectional)
+6. scikit-learn
 
-Include other technical indicators (MACD, RSI, etc.)
+7. Yahoo Finance API (yfinance)
 
-Hyperparameter tuning and cross-validation
+ ### Future Improvements
+- Use more complex LSTM architectures (e.g., stacked or bidirectional)
 
-Deploy as a web app using Streamlit or Flask
++ Include other technical indicators (MACD, RSI, etc.)
+
+* Hyperparameter tuning and cross-validation
+
+* Deploy as a web app using Streamlit or Flask
+
