@@ -16,3 +16,27 @@ Creating LSTM-compatible data sequences
 Training an LSTM model using TensorFlow/Keras
 
 Evaluating predictions visually and statistically
+
+🧠 Technologies Used
+Python
+
+TensorFlow / Keras
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+scikit-learn
+
+Yahoo Finance API (yfinance)
+
+ Future Improvements
+Use more complex LSTM architectures (e.g., stacked or bidirectional)
+
+Include other technical indicators (MACD, RSI, etc.)
+
+Hyperparameter tuning and cross-validation
+
+Deploy as a web app using Streamlit or Flask
